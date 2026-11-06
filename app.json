@@ -1,0 +1,1 @@
+{"expo":{"name":"Павел AI","slug":"pavel-ai","version":"0.1.0","orientation":"portrait","userInterfaceStyle":"dark","plugins":[["expo-secure-store",{"faceIDPermission":"Face ID используется для входа в приложение."}],["expo-local-authentication",{"faceIDPermission":"Face ID используется для входа в приложение."}]],"ios":{"bundleIdentifier":"com.pavel.ai","supportsTablet":false}}}
